@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**devtuyi/devtuyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Laravel developer who loves building innovative web applications.
 
-Here are some ideas to get you started:
+## About Me
+I'm dedicated to crafting high-quality, scalable web solutions using Laravel, an elegant PHP framework known for its simplicity and expressive syntax. With several years of experience in web development, I've honed my skills in building robust backend systems, API integrations, and dynamic user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+- **Languages:** PHP, JavaScript, HTML, CSS
+- **Frameworks:** Laravel
+- **Databases:** MySQL, PostgreSQL, SQLite
+- **Tools & Technologies:** Git, GitHub, VS Code, Composer, PHPUnit
+
+## 🤝 Connect with Me
+- **X (formerly Twitter):** [@devtuyi](https://x.com/devtuyi)
+
+## Get in Touch
+I'm always open to new opportunities, collaboration, and discussions. Feel free to reach out to me.
+
+Let's build something amazing together! 🚀
