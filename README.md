@@ -12,7 +12,7 @@ I'm dedicated to crafting high-quality, scalable web solutions using Laravel, an
 ## My Skills
 - **Languages:** PHP, JavaScript, HTML, CSS
 - **Framework(s):** Laravel
-- **CMS:** WordPress
+- **CMS:** WordPress, Wix
 - **Databases:** MySQL, PostgreSQL, SQLite
 - **Tools & Technologies:** Git, GitHub, VS Code, Composer, PHPUnit
 
